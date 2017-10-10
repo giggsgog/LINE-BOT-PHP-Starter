@@ -25,9 +25,8 @@ if (!is_null($events['events'])) {
 						'text' => $text
 					},
 					{
-						"type": "sticker",
-						"packageId": "1",
-						"stickerId": "1"
+						'type' => 'text',
+						'text' => "ว่าไง"
 					}
 				];
 			}
