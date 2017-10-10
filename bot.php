@@ -22,8 +22,8 @@ if (!is_null($events['events'])) {
 				$messages = [
 					
 						"type": "image",
-    						"originalContentUrl": "https://example.com/original.jpg",
-    						"previewImageUrl": "https://example.com/preview.jpg"
+    						"originalContentUrl": "http://images.entertainment.ie/images_content/rectangle/620x372/E-T.jpg",
+    						"previewImageUrl": "http://images.entertainment.ie/images_content/rectangle/620x372/E-T.jpg"
 										
 				];
 			}
