@@ -21,9 +21,9 @@ if (!is_null($events['events'])) {
 				// Build message to reply back
 				$messages = [
 					
-						"type": "sticker",
-    "packageId": "1",
-    "stickerId": "1"
+						"type": "image",
+    						"originalContentUrl": "https://example.com/original.jpg",
+    						"previewImageUrl": "https://example.com/preview.jpg"
 										
 				];
 			}
